@@ -2,3 +2,5 @@
 
 It is a simple calculator made using HTML, CSS and Javascript.
 All the basic fucntions of a calculator are included in it.
+
+https://sayanbrata.github.io/Simple_Calculator/
